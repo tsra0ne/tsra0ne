@@ -1,0 +1,23 @@
+{
+  "name": "tsra0ne",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsra0ne/tsra0ne.git"
+  },
+  "keywords": [],
+  "author": "tsra0ne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsra0ne/tsra0ne/issues"
+  },
+  "homepage": "https://github.com/tsra0ne/tsra0ne#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.1"
+  }
+}
